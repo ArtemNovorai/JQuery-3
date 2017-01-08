@@ -1,6 +1,7 @@
 # JQuery-3
 
-### Quzi-1(https://cloud.githubusercontent.com/assets/21219096/21750112/583ad142-d5b4-11e6-8559-ddf6171fe6fc.png)
+### Quzi-1
+(https://cloud.githubusercontent.com/assets/21219096/21750112/583ad142-d5b4-11e6-8559-ddf6171fe6fc.png)
 ## Quzi-2
 ### (https://cloud.githubusercontent.com/assets/21219096/21750113/60113bd6-d5b4-11e6-9de2-643bfeadd431.png)
 ## Quzi-3
